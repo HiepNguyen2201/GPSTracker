@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100618627432",
+    "firebase_url": "https://gpstracker-cd5b9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gpstracker-cd5b9",
+    "storage_bucket": "gpstracker-cd5b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100618627432:android:8f74c2f34e618a76e34edd",
+        "android_client_info": {
+          "package_name": "com.example.gpstrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100618627432-g8e4u4bfhso7ipvfnc0tvhvepllk5o98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpstrackerapp",
+            "certificate_hash": "d7aba7ef4b6dc20fabada8aacb67dc30513db7da"
+          }
+        },
+        {
+          "client_id": "100618627432-krromv6lfv2nbmn0k92e7dngcs40r0vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9m7xgjeJGY9UXmR6odNjO7BN9ZRGv-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100618627432-4lmd9spthuo6v5563dnq7boq3ju3t8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
